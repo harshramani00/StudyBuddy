@@ -70,12 +70,6 @@ python manage.py runserver
 
 Open your browser and go to `http://127.0.0.1:8000/` to start using the app!
 
----
-
-## 🖼️ Screenshots
-![Home Page](https://github.com/user-attachments/assets/0865722e-1a3c-4e4a-b1f2-0b6a91f08e98)
-![Room](https://github.com/user-attachments/assets/41642a40-3906-4036-8f06-27f646b29ac8)
-
 
 ---
 
